@@ -104,8 +104,6 @@ def process_document(
     else: 
         contents = system_prompt
     
-    print(f"###########################{contents}")
-
     # Send to Gemini
     response = model.generate_content(contents)
 

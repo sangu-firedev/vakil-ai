@@ -4,3 +4,9 @@ __pycache__/
 
 # Ignore virtual env
 legal-chat/
+
+# Ignore keys
+keys/
+
+# Ignore the config file
+config.yaml

@@ -1,0 +1,8 @@
+project_ids:
+  PROJECT_ID = ""
+  LOCATION = ""
+
+service_account:
+  path = ""
+  
+
